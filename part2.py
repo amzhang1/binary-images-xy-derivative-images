@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-# Study and run the code provided here for Canny edge detection. Now do the exercise that appears at the bottom of the same tutorial that is copied and pasted here.
+# Study and run the code provided here for Canny edge detection.
 # Write a small application to find the Canny edge detection whose threshold values can be varied using two track bars. This way, you can understand the effect of threshold values."
 
 def track_min(x):
